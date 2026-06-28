@@ -1,0 +1,101 @@
+product_id,product_name,category,unit_cost,unit_price
+1,Electronics_Product_001,Electronics,100.02,137.83
+2,Furniture_Product_002,Furniture,86.13,168.79
+3,Sports_Product_003,Sports,215.09,356.42
+4,Sports_Product_004,Sports,161.51,281.75
+5,Sports_Product_005,Sports,131.91,283.83
+6,Electronics_Product_006,Electronics,256.57,508.29
+7,Sports_Product_007,Sports,217.65,317.34
+8,Home_Product_008,Home,266.99,452.97
+9,Home_Product_009,Home,122.63,254.52
+10,Office Supplies_Product_010,Office Supplies,130.9,261.56
+11,Office Supplies_Product_011,Office Supplies,286.31,579.54
+12,Home_Product_012,Home,24.8,54.51
+13,Electronics_Product_013,Electronics,132.4,277.18
+14,Office Supplies_Product_014,Office Supplies,244.47,456.58
+15,Sports_Product_015,Sports,287.2,538.22
+16,Electronics_Product_016,Electronics,126.19,283.72
+17,Home_Product_017,Home,261.09,539.22
+18,Office Supplies_Product_018,Office Supplies,182.12,295.39
+19,Sports_Product_019,Sports,154.69,214.35
+20,Home_Product_020,Home,71.15,94.62
+21,Sports_Product_021,Sports,113.43,239.92
+22,Sports_Product_022,Sports,71.72,123.0
+23,Sports_Product_023,Sports,292.49,638.25
+24,Sports_Product_024,Sports,204.12,381.31
+25,Sports_Product_025,Sports,279.08,612.68
+26,Office Supplies_Product_026,Office Supplies,13.54,20.69
+27,Office Supplies_Product_027,Office Supplies,276.85,448.84
+28,Furniture_Product_028,Furniture,261.61,491.72
+29,Home_Product_029,Home,25.53,53.34
+30,Electronics_Product_030,Electronics,32.07,58.9
+31,Home_Product_031,Home,128.85,207.33
+32,Office Supplies_Product_032,Office Supplies,96.93,154.05
+33,Sports_Product_033,Sports,180.89,408.81
+34,Furniture_Product_034,Furniture,51.44,99.87
+35,Electronics_Product_035,Electronics,85.27,170.06
+36,Home_Product_036,Home,184.09,312.4
+37,Furniture_Product_037,Furniture,227.71,304.35
+38,Home_Product_038,Home,37.71,75.94
+39,Sports_Product_039,Sports,148.56,297.2
+40,Electronics_Product_040,Electronics,70.05,166.81
+41,Electronics_Product_041,Electronics,7.27,11.35
+42,Furniture_Product_042,Furniture,231.37,489.81
+43,Office Supplies_Product_043,Office Supplies,101.8,123.1
+44,Home_Product_044,Home,56.83,94.12
+45,Furniture_Product_045,Furniture,152.58,335.68
+46,Office Supplies_Product_046,Office Supplies,26.26,58.67
+47,Electronics_Product_047,Electronics,133.68,234.17
+48,Electronics_Product_048,Electronics,259.32,490.35
+49,Sports_Product_049,Sports,124.3,244.64
+50,Office Supplies_Product_050,Office Supplies,38.98,47.75
+51,Office Supplies_Product_051,Office Supplies,55.7,130.18
+52,Home_Product_052,Home,250.45,576.97
+53,Electronics_Product_053,Electronics,133.83,177.6
+54,Home_Product_054,Home,178.72,326.84
+55,Home_Product_055,Home,261.8,548.46
+56,Furniture_Product_056,Furniture,103.26,144.75
+57,Sports_Product_057,Sports,191.8,352.28
+58,Furniture_Product_058,Furniture,272.25,440.84
+59,Furniture_Product_059,Furniture,74.7,102.77
+60,Furniture_Product_060,Furniture,56.18,77.72
+61,Electronics_Product_061,Electronics,57.26,121.82
+62,Home_Product_062,Home,141.87,266.22
+63,Sports_Product_063,Sports,137.43,317.32
+64,Sports_Product_064,Sports,194.68,464.09
+65,Office Supplies_Product_065,Office Supplies,259.95,507.59
+66,Furniture_Product_066,Furniture,134.73,237.49
+67,Office Supplies_Product_067,Office Supplies,239.92,458.18
+68,Office Supplies_Product_068,Office Supplies,154.66,243.2
+69,Home_Product_069,Home,16.09,26.43
+70,Office Supplies_Product_070,Office Supplies,27.64,61.83
+71,Electronics_Product_071,Electronics,186.43,337.16
+72,Home_Product_072,Home,176.2,413.2
+73,Electronics_Product_073,Electronics,137.67,298.99
+74,Furniture_Product_074,Furniture,99.85,176.81
+75,Furniture_Product_075,Furniture,287.53,500.48
+76,Office Supplies_Product_076,Office Supplies,294.8,383.59
+77,Furniture_Product_077,Furniture,16.55,33.91
+78,Home_Product_078,Home,159.6,308.31
+79,Office Supplies_Product_079,Office Supplies,114.99,177.02
+80,Home_Product_080,Home,233.47,470.37
+81,Electronics_Product_081,Electronics,237.82,470.11
+82,Electronics_Product_082,Electronics,102.26,191.18
+83,Home_Product_083,Home,88.82,183.72
+84,Sports_Product_084,Sports,262.62,420.2
+85,Sports_Product_085,Sports,200.77,461.79
+86,Office Supplies_Product_086,Office Supplies,290.47,592.03
+87,Home_Product_087,Home,43.04,88.26
+88,Electronics_Product_088,Electronics,96.33,159.14
+89,Office Supplies_Product_089,Office Supplies,244.89,490.79
+90,Sports_Product_090,Sports,32.57,65.29
+91,Sports_Product_091,Sports,111.74,182.71
+92,Furniture_Product_092,Furniture,285.59,459.82
+93,Home_Product_093,Home,61.64,147.93
+94,Furniture_Product_094,Furniture,27.76,61.44
+95,Electronics_Product_095,Electronics,154.77,285.97
+96,Sports_Product_096,Sports,16.14,25.89
+97,Sports_Product_097,Sports,43.66,72.13
+98,Furniture_Product_098,Furniture,58.35,118.53
+99,Sports_Product_099,Sports,243.67,340.81
+100,Home_Product_100,Home,17.89,29.29
