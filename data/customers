@@ -1,0 +1,501 @@
+customer_id,customer_name,country,city,segment
+1,Customer_001,Hungary,Budapest,Consumer
+2,Customer_002,Hungary,Debrecen,Consumer
+3,Customer_003,Czech Republic,Prague,Small Business
+4,Customer_004,Slovakia,Bratislava,Small Business
+5,Customer_005,Ukraine,Kyiv,Consumer
+6,Customer_006,Slovakia,Košice,Consumer
+7,Customer_007,Germany,Hamburg,Consumer
+8,Customer_008,Germany,Berlin,Small Business
+9,Customer_009,Hungary,Debrecen,Consumer
+10,Customer_010,Ukraine,Kharkiv,Corporate
+11,Customer_011,Slovakia,Košice,Small Business
+12,Customer_012,Ukraine,Lviv,Corporate
+13,Customer_013,Czech Republic,Prague,Corporate
+14,Customer_014,Slovakia,Bratislava,Corporate
+15,Customer_015,Slovakia,Prešov,Corporate
+16,Customer_016,Germany,Munich,Consumer
+17,Customer_017,Hungary,Debrecen,Small Business
+18,Customer_018,Slovakia,Žilina,Consumer
+19,Customer_019,Germany,Munich,Small Business
+20,Customer_020,Germany,Munich,Small Business
+21,Customer_021,Czech Republic,Ostrava,Consumer
+22,Customer_022,Slovakia,Košice,Corporate
+23,Customer_023,Slovakia,Košice,Consumer
+24,Customer_024,Ukraine,Lviv,Corporate
+25,Customer_025,Hungary,Debrecen,Consumer
+26,Customer_026,Poland,Krakow,Consumer
+27,Customer_027,Hungary,Debrecen,Small Business
+28,Customer_028,Hungary,Budapest,Small Business
+29,Customer_029,Hungary,Budapest,Small Business
+30,Customer_030,Hungary,Budapest,Consumer
+31,Customer_031,Ukraine,Lviv,Corporate
+32,Customer_032,Hungary,Budapest,Small Business
+33,Customer_033,Poland,Warsaw,Consumer
+34,Customer_034,Slovakia,Prešov,Corporate
+35,Customer_035,Poland,Warsaw,Consumer
+36,Customer_036,Germany,Hamburg,Corporate
+37,Customer_037,Czech Republic,Ostrava,Corporate
+38,Customer_038,Ukraine,Kharkiv,Corporate
+39,Customer_039,Czech Republic,Brno,Consumer
+40,Customer_040,Czech Republic,Ostrava,Small Business
+41,Customer_041,Germany,Munich,Small Business
+42,Customer_042,Germany,Munich,Small Business
+43,Customer_043,Ukraine,Lviv,Consumer
+44,Customer_044,Czech Republic,Ostrava,Corporate
+45,Customer_045,Slovakia,Bratislava,Consumer
+46,Customer_046,Czech Republic,Ostrava,Consumer
+47,Customer_047,Hungary,Debrecen,Small Business
+48,Customer_048,Slovakia,Žilina,Corporate
+49,Customer_049,Germany,Munich,Small Business
+50,Customer_050,Poland,Wroclaw,Consumer
+51,Customer_051,Hungary,Budapest,Small Business
+52,Customer_052,Germany,Munich,Small Business
+53,Customer_053,Poland,Warsaw,Corporate
+54,Customer_054,Ukraine,Kyiv,Corporate
+55,Customer_055,Slovakia,Prešov,Small Business
+56,Customer_056,Czech Republic,Ostrava,Consumer
+57,Customer_057,Hungary,Debrecen,Small Business
+58,Customer_058,Germany,Hamburg,Consumer
+59,Customer_059,Czech Republic,Brno,Consumer
+60,Customer_060,Germany,Hamburg,Consumer
+61,Customer_061,Germany,Munich,Corporate
+62,Customer_062,Slovakia,Bratislava,Corporate
+63,Customer_063,Poland,Warsaw,Consumer
+64,Customer_064,Czech Republic,Ostrava,Consumer
+65,Customer_065,Slovakia,Žilina,Consumer
+66,Customer_066,Germany,Berlin,Consumer
+67,Customer_067,Hungary,Debrecen,Small Business
+68,Customer_068,Czech Republic,Brno,Small Business
+69,Customer_069,Germany,Munich,Consumer
+70,Customer_070,Germany,Hamburg,Small Business
+71,Customer_071,Czech Republic,Ostrava,Corporate
+72,Customer_072,Ukraine,Kharkiv,Small Business
+73,Customer_073,Poland,Krakow,Small Business
+74,Customer_074,Ukraine,Kyiv,Consumer
+75,Customer_075,Czech Republic,Prague,Corporate
+76,Customer_076,Slovakia,Košice,Small Business
+77,Customer_077,Czech Republic,Prague,Consumer
+78,Customer_078,Hungary,Budapest,Consumer
+79,Customer_079,Slovakia,Bratislava,Corporate
+80,Customer_080,Slovakia,Košice,Corporate
+81,Customer_081,Hungary,Debrecen,Consumer
+82,Customer_082,Germany,Berlin,Small Business
+83,Customer_083,Germany,Hamburg,Corporate
+84,Customer_084,Czech Republic,Brno,Corporate
+85,Customer_085,Czech Republic,Prague,Consumer
+86,Customer_086,Hungary,Debrecen,Corporate
+87,Customer_087,Ukraine,Lviv,Corporate
+88,Customer_088,Hungary,Budapest,Small Business
+89,Customer_089,Hungary,Budapest,Consumer
+90,Customer_090,Ukraine,Kharkiv,Corporate
+91,Customer_091,Slovakia,Košice,Consumer
+92,Customer_092,Czech Republic,Ostrava,Corporate
+93,Customer_093,Czech Republic,Brno,Consumer
+94,Customer_094,Poland,Krakow,Consumer
+95,Customer_095,Slovakia,Žilina,Small Business
+96,Customer_096,Slovakia,Bratislava,Small Business
+97,Customer_097,Germany,Berlin,Consumer
+98,Customer_098,Czech Republic,Prague,Corporate
+99,Customer_099,Ukraine,Lviv,Consumer
+100,Customer_100,Ukraine,Kyiv,Consumer
+101,Customer_101,Ukraine,Kyiv,Corporate
+102,Customer_102,Poland,Krakow,Corporate
+103,Customer_103,Ukraine,Kharkiv,Small Business
+104,Customer_104,Germany,Hamburg,Small Business
+105,Customer_105,Ukraine,Kyiv,Consumer
+106,Customer_106,Poland,Warsaw,Consumer
+107,Customer_107,Germany,Hamburg,Small Business
+108,Customer_108,Slovakia,Prešov,Consumer
+109,Customer_109,Slovakia,Žilina,Small Business
+110,Customer_110,Germany,Berlin,Consumer
+111,Customer_111,Germany,Berlin,Consumer
+112,Customer_112,Slovakia,Bratislava,Small Business
+113,Customer_113,Czech Republic,Brno,Consumer
+114,Customer_114,Germany,Berlin,Small Business
+115,Customer_115,Germany,Berlin,Small Business
+116,Customer_116,Slovakia,Žilina,Small Business
+117,Customer_117,Germany,Hamburg,Small Business
+118,Customer_118,Poland,Krakow,Consumer
+119,Customer_119,Hungary,Debrecen,Consumer
+120,Customer_120,Poland,Krakow,Consumer
+121,Customer_121,Hungary,Debrecen,Corporate
+122,Customer_122,Poland,Warsaw,Consumer
+123,Customer_123,Ukraine,Kharkiv,Small Business
+124,Customer_124,Slovakia,Bratislava,Small Business
+125,Customer_125,Czech Republic,Ostrava,Corporate
+126,Customer_126,Czech Republic,Brno,Consumer
+127,Customer_127,Czech Republic,Brno,Corporate
+128,Customer_128,Czech Republic,Brno,Small Business
+129,Customer_129,Hungary,Debrecen,Small Business
+130,Customer_130,Hungary,Budapest,Small Business
+131,Customer_131,Germany,Munich,Small Business
+132,Customer_132,Slovakia,Košice,Corporate
+133,Customer_133,Slovakia,Bratislava,Small Business
+134,Customer_134,Germany,Berlin,Corporate
+135,Customer_135,Poland,Wroclaw,Consumer
+136,Customer_136,Hungary,Debrecen,Consumer
+137,Customer_137,Hungary,Debrecen,Small Business
+138,Customer_138,Ukraine,Lviv,Consumer
+139,Customer_139,Slovakia,Žilina,Corporate
+140,Customer_140,Slovakia,Bratislava,Corporate
+141,Customer_141,Czech Republic,Ostrava,Corporate
+142,Customer_142,Czech Republic,Ostrava,Corporate
+143,Customer_143,Germany,Hamburg,Corporate
+144,Customer_144,Germany,Berlin,Consumer
+145,Customer_145,Slovakia,Košice,Small Business
+146,Customer_146,Slovakia,Prešov,Small Business
+147,Customer_147,Germany,Berlin,Corporate
+148,Customer_148,Czech Republic,Prague,Corporate
+149,Customer_149,Poland,Warsaw,Corporate
+150,Customer_150,Czech Republic,Ostrava,Consumer
+151,Customer_151,Hungary,Budapest,Corporate
+152,Customer_152,Germany,Munich,Small Business
+153,Customer_153,Hungary,Budapest,Consumer
+154,Customer_154,Czech Republic,Prague,Corporate
+155,Customer_155,Slovakia,Košice,Small Business
+156,Customer_156,Poland,Krakow,Small Business
+157,Customer_157,Hungary,Budapest,Corporate
+158,Customer_158,Czech Republic,Ostrava,Consumer
+159,Customer_159,Ukraine,Kyiv,Corporate
+160,Customer_160,Czech Republic,Prague,Corporate
+161,Customer_161,Poland,Krakow,Consumer
+162,Customer_162,Czech Republic,Prague,Small Business
+163,Customer_163,Czech Republic,Brno,Corporate
+164,Customer_164,Poland,Warsaw,Corporate
+165,Customer_165,Poland,Wroclaw,Small Business
+166,Customer_166,Ukraine,Kharkiv,Small Business
+167,Customer_167,Poland,Warsaw,Consumer
+168,Customer_168,Poland,Warsaw,Small Business
+169,Customer_169,Poland,Warsaw,Consumer
+170,Customer_170,Germany,Munich,Corporate
+171,Customer_171,Hungary,Debrecen,Corporate
+172,Customer_172,Germany,Hamburg,Consumer
+173,Customer_173,Ukraine,Kharkiv,Consumer
+174,Customer_174,Poland,Warsaw,Small Business
+175,Customer_175,Ukraine,Kyiv,Small Business
+176,Customer_176,Germany,Hamburg,Small Business
+177,Customer_177,Hungary,Budapest,Corporate
+178,Customer_178,Ukraine,Kyiv,Small Business
+179,Customer_179,Poland,Wroclaw,Corporate
+180,Customer_180,Hungary,Budapest,Small Business
+181,Customer_181,Poland,Wroclaw,Corporate
+182,Customer_182,Hungary,Debrecen,Corporate
+183,Customer_183,Ukraine,Kharkiv,Corporate
+184,Customer_184,Germany,Berlin,Consumer
+185,Customer_185,Ukraine,Kharkiv,Corporate
+186,Customer_186,Hungary,Budapest,Small Business
+187,Customer_187,Germany,Munich,Corporate
+188,Customer_188,Germany,Berlin,Corporate
+189,Customer_189,Poland,Warsaw,Corporate
+190,Customer_190,Germany,Hamburg,Small Business
+191,Customer_191,Poland,Krakow,Corporate
+192,Customer_192,Ukraine,Kharkiv,Consumer
+193,Customer_193,Germany,Munich,Small Business
+194,Customer_194,Czech Republic,Ostrava,Consumer
+195,Customer_195,Poland,Wroclaw,Small Business
+196,Customer_196,Hungary,Debrecen,Consumer
+197,Customer_197,Czech Republic,Ostrava,Corporate
+198,Customer_198,Czech Republic,Prague,Consumer
+199,Customer_199,Slovakia,Bratislava,Consumer
+200,Customer_200,Ukraine,Kharkiv,Consumer
+201,Customer_201,Ukraine,Lviv,Small Business
+202,Customer_202,Germany,Berlin,Small Business
+203,Customer_203,Hungary,Debrecen,Corporate
+204,Customer_204,Ukraine,Kyiv,Consumer
+205,Customer_205,Hungary,Budapest,Consumer
+206,Customer_206,Ukraine,Kyiv,Consumer
+207,Customer_207,Hungary,Debrecen,Consumer
+208,Customer_208,Germany,Berlin,Consumer
+209,Customer_209,Ukraine,Kyiv,Corporate
+210,Customer_210,Hungary,Debrecen,Corporate
+211,Customer_211,Germany,Hamburg,Small Business
+212,Customer_212,Ukraine,Kharkiv,Corporate
+213,Customer_213,Czech Republic,Ostrava,Corporate
+214,Customer_214,Ukraine,Lviv,Consumer
+215,Customer_215,Hungary,Debrecen,Small Business
+216,Customer_216,Ukraine,Kharkiv,Consumer
+217,Customer_217,Poland,Krakow,Consumer
+218,Customer_218,Hungary,Debrecen,Consumer
+219,Customer_219,Poland,Krakow,Corporate
+220,Customer_220,Germany,Berlin,Consumer
+221,Customer_221,Czech Republic,Prague,Corporate
+222,Customer_222,Hungary,Budapest,Small Business
+223,Customer_223,Czech Republic,Prague,Corporate
+224,Customer_224,Ukraine,Lviv,Small Business
+225,Customer_225,Ukraine,Lviv,Consumer
+226,Customer_226,Czech Republic,Brno,Corporate
+227,Customer_227,Germany,Hamburg,Consumer
+228,Customer_228,Germany,Munich,Corporate
+229,Customer_229,Slovakia,Prešov,Corporate
+230,Customer_230,Ukraine,Lviv,Small Business
+231,Customer_231,Hungary,Budapest,Corporate
+232,Customer_232,Czech Republic,Brno,Corporate
+233,Customer_233,Ukraine,Kyiv,Corporate
+234,Customer_234,Poland,Wroclaw,Small Business
+235,Customer_235,Ukraine,Kharkiv,Consumer
+236,Customer_236,Ukraine,Kyiv,Small Business
+237,Customer_237,Germany,Berlin,Corporate
+238,Customer_238,Germany,Hamburg,Small Business
+239,Customer_239,Slovakia,Bratislava,Small Business
+240,Customer_240,Ukraine,Kyiv,Corporate
+241,Customer_241,Czech Republic,Prague,Corporate
+242,Customer_242,Ukraine,Lviv,Consumer
+243,Customer_243,Ukraine,Lviv,Corporate
+244,Customer_244,Ukraine,Lviv,Corporate
+245,Customer_245,Poland,Warsaw,Corporate
+246,Customer_246,Slovakia,Bratislava,Corporate
+247,Customer_247,Czech Republic,Ostrava,Consumer
+248,Customer_248,Hungary,Budapest,Consumer
+249,Customer_249,Czech Republic,Prague,Consumer
+250,Customer_250,Germany,Berlin,Consumer
+251,Customer_251,Czech Republic,Brno,Small Business
+252,Customer_252,Slovakia,Košice,Corporate
+253,Customer_253,Hungary,Debrecen,Corporate
+254,Customer_254,Czech Republic,Ostrava,Small Business
+255,Customer_255,Hungary,Budapest,Consumer
+256,Customer_256,Poland,Warsaw,Small Business
+257,Customer_257,Slovakia,Prešov,Small Business
+258,Customer_258,Hungary,Debrecen,Corporate
+259,Customer_259,Hungary,Budapest,Consumer
+260,Customer_260,Germany,Hamburg,Small Business
+261,Customer_261,Czech Republic,Prague,Small Business
+262,Customer_262,Poland,Wroclaw,Small Business
+263,Customer_263,Slovakia,Bratislava,Corporate
+264,Customer_264,Germany,Munich,Small Business
+265,Customer_265,Poland,Warsaw,Small Business
+266,Customer_266,Hungary,Debrecen,Consumer
+267,Customer_267,Ukraine,Lviv,Consumer
+268,Customer_268,Ukraine,Lviv,Small Business
+269,Customer_269,Ukraine,Kharkiv,Consumer
+270,Customer_270,Ukraine,Kyiv,Small Business
+271,Customer_271,Germany,Hamburg,Corporate
+272,Customer_272,Germany,Hamburg,Corporate
+273,Customer_273,Ukraine,Lviv,Small Business
+274,Customer_274,Germany,Munich,Corporate
+275,Customer_275,Czech Republic,Prague,Corporate
+276,Customer_276,Ukraine,Kyiv,Corporate
+277,Customer_277,Germany,Hamburg,Small Business
+278,Customer_278,Ukraine,Lviv,Consumer
+279,Customer_279,Ukraine,Lviv,Consumer
+280,Customer_280,Ukraine,Kyiv,Corporate
+281,Customer_281,Poland,Krakow,Corporate
+282,Customer_282,Germany,Hamburg,Corporate
+283,Customer_283,Germany,Berlin,Small Business
+284,Customer_284,Czech Republic,Prague,Consumer
+285,Customer_285,Hungary,Debrecen,Corporate
+286,Customer_286,Germany,Berlin,Small Business
+287,Customer_287,Ukraine,Kharkiv,Small Business
+288,Customer_288,Ukraine,Lviv,Consumer
+289,Customer_289,Slovakia,Prešov,Consumer
+290,Customer_290,Ukraine,Kharkiv,Consumer
+291,Customer_291,Poland,Wroclaw,Small Business
+292,Customer_292,Poland,Krakow,Small Business
+293,Customer_293,Germany,Munich,Corporate
+294,Customer_294,Hungary,Debrecen,Corporate
+295,Customer_295,Hungary,Debrecen,Corporate
+296,Customer_296,Poland,Krakow,Consumer
+297,Customer_297,Slovakia,Košice,Corporate
+298,Customer_298,Slovakia,Košice,Consumer
+299,Customer_299,Czech Republic,Ostrava,Corporate
+300,Customer_300,Poland,Wroclaw,Small Business
+301,Customer_301,Germany,Hamburg,Corporate
+302,Customer_302,Slovakia,Košice,Corporate
+303,Customer_303,Czech Republic,Brno,Consumer
+304,Customer_304,Poland,Warsaw,Small Business
+305,Customer_305,Germany,Berlin,Corporate
+306,Customer_306,Slovakia,Bratislava,Small Business
+307,Customer_307,Poland,Wroclaw,Consumer
+308,Customer_308,Hungary,Debrecen,Consumer
+309,Customer_309,Slovakia,Prešov,Corporate
+310,Customer_310,Ukraine,Lviv,Corporate
+311,Customer_311,Czech Republic,Prague,Corporate
+312,Customer_312,Ukraine,Kyiv,Consumer
+313,Customer_313,Ukraine,Lviv,Consumer
+314,Customer_314,Germany,Hamburg,Small Business
+315,Customer_315,Slovakia,Košice,Consumer
+316,Customer_316,Germany,Munich,Consumer
+317,Customer_317,Czech Republic,Prague,Small Business
+318,Customer_318,Ukraine,Kharkiv,Small Business
+319,Customer_319,Germany,Berlin,Small Business
+320,Customer_320,Ukraine,Lviv,Corporate
+321,Customer_321,Poland,Wroclaw,Corporate
+322,Customer_322,Poland,Wroclaw,Small Business
+323,Customer_323,Slovakia,Bratislava,Consumer
+324,Customer_324,Hungary,Budapest,Corporate
+325,Customer_325,Hungary,Budapest,Consumer
+326,Customer_326,Czech Republic,Prague,Small Business
+327,Customer_327,Slovakia,Košice,Consumer
+328,Customer_328,Ukraine,Lviv,Small Business
+329,Customer_329,Germany,Munich,Corporate
+330,Customer_330,Slovakia,Košice,Corporate
+331,Customer_331,Hungary,Debrecen,Small Business
+332,Customer_332,Ukraine,Kyiv,Small Business
+333,Customer_333,Czech Republic,Brno,Small Business
+334,Customer_334,Germany,Hamburg,Consumer
+335,Customer_335,Ukraine,Kyiv,Small Business
+336,Customer_336,Czech Republic,Ostrava,Consumer
+337,Customer_337,Poland,Warsaw,Consumer
+338,Customer_338,Slovakia,Košice,Corporate
+339,Customer_339,Germany,Hamburg,Small Business
+340,Customer_340,Poland,Krakow,Consumer
+341,Customer_341,Ukraine,Kharkiv,Corporate
+342,Customer_342,Hungary,Debrecen,Corporate
+343,Customer_343,Germany,Hamburg,Corporate
+344,Customer_344,Ukraine,Kyiv,Small Business
+345,Customer_345,Slovakia,Žilina,Small Business
+346,Customer_346,Poland,Wroclaw,Corporate
+347,Customer_347,Slovakia,Bratislava,Consumer
+348,Customer_348,Hungary,Budapest,Small Business
+349,Customer_349,Poland,Wroclaw,Consumer
+350,Customer_350,Czech Republic,Brno,Small Business
+351,Customer_351,Hungary,Debrecen,Corporate
+352,Customer_352,Czech Republic,Ostrava,Corporate
+353,Customer_353,Hungary,Debrecen,Consumer
+354,Customer_354,Ukraine,Lviv,Corporate
+355,Customer_355,Poland,Krakow,Small Business
+356,Customer_356,Slovakia,Košice,Corporate
+357,Customer_357,Ukraine,Kharkiv,Corporate
+358,Customer_358,Poland,Wroclaw,Corporate
+359,Customer_359,Germany,Berlin,Corporate
+360,Customer_360,Slovakia,Prešov,Corporate
+361,Customer_361,Poland,Warsaw,Corporate
+362,Customer_362,Germany,Berlin,Small Business
+363,Customer_363,Germany,Munich,Corporate
+364,Customer_364,Slovakia,Košice,Small Business
+365,Customer_365,Poland,Wroclaw,Corporate
+366,Customer_366,Hungary,Debrecen,Consumer
+367,Customer_367,Czech Republic,Brno,Small Business
+368,Customer_368,Czech Republic,Brno,Corporate
+369,Customer_369,Hungary,Debrecen,Consumer
+370,Customer_370,Slovakia,Košice,Small Business
+371,Customer_371,Czech Republic,Brno,Small Business
+372,Customer_372,Slovakia,Žilina,Consumer
+373,Customer_373,Czech Republic,Prague,Corporate
+374,Customer_374,Slovakia,Košice,Corporate
+375,Customer_375,Hungary,Debrecen,Small Business
+376,Customer_376,Hungary,Debrecen,Corporate
+377,Customer_377,Ukraine,Lviv,Consumer
+378,Customer_378,Ukraine,Kharkiv,Consumer
+379,Customer_379,Ukraine,Kyiv,Small Business
+380,Customer_380,Germany,Hamburg,Consumer
+381,Customer_381,Slovakia,Prešov,Corporate
+382,Customer_382,Poland,Wroclaw,Corporate
+383,Customer_383,Slovakia,Prešov,Small Business
+384,Customer_384,Poland,Wroclaw,Small Business
+385,Customer_385,Hungary,Debrecen,Consumer
+386,Customer_386,Ukraine,Kharkiv,Corporate
+387,Customer_387,Poland,Krakow,Small Business
+388,Customer_388,Germany,Munich,Corporate
+389,Customer_389,Poland,Warsaw,Small Business
+390,Customer_390,Czech Republic,Ostrava,Corporate
+391,Customer_391,Czech Republic,Brno,Consumer
+392,Customer_392,Poland,Wroclaw,Corporate
+393,Customer_393,Hungary,Debrecen,Corporate
+394,Customer_394,Hungary,Budapest,Corporate
+395,Customer_395,Slovakia,Košice,Small Business
+396,Customer_396,Germany,Munich,Consumer
+397,Customer_397,Ukraine,Kyiv,Small Business
+398,Customer_398,Ukraine,Kyiv,Small Business
+399,Customer_399,Czech Republic,Brno,Small Business
+400,Customer_400,Czech Republic,Prague,Corporate
+401,Customer_401,Poland,Krakow,Small Business
+402,Customer_402,Hungary,Debrecen,Small Business
+403,Customer_403,Slovakia,Prešov,Small Business
+404,Customer_404,Germany,Munich,Corporate
+405,Customer_405,Hungary,Debrecen,Small Business
+406,Customer_406,Slovakia,Bratislava,Consumer
+407,Customer_407,Hungary,Debrecen,Consumer
+408,Customer_408,Hungary,Budapest,Corporate
+409,Customer_409,Slovakia,Bratislava,Corporate
+410,Customer_410,Czech Republic,Ostrava,Corporate
+411,Customer_411,Slovakia,Bratislava,Corporate
+412,Customer_412,Slovakia,Prešov,Corporate
+413,Customer_413,Poland,Krakow,Consumer
+414,Customer_414,Czech Republic,Ostrava,Corporate
+415,Customer_415,Germany,Hamburg,Consumer
+416,Customer_416,Czech Republic,Prague,Consumer
+417,Customer_417,Germany,Munich,Small Business
+418,Customer_418,Hungary,Budapest,Corporate
+419,Customer_419,Germany,Berlin,Consumer
+420,Customer_420,Ukraine,Kharkiv,Corporate
+421,Customer_421,Ukraine,Lviv,Small Business
+422,Customer_422,Slovakia,Žilina,Corporate
+423,Customer_423,Hungary,Budapest,Consumer
+424,Customer_424,Ukraine,Lviv,Small Business
+425,Customer_425,Poland,Wroclaw,Corporate
+426,Customer_426,Hungary,Debrecen,Corporate
+427,Customer_427,Poland,Warsaw,Corporate
+428,Customer_428,Ukraine,Kyiv,Consumer
+429,Customer_429,Ukraine,Kharkiv,Corporate
+430,Customer_430,Germany,Munich,Small Business
+431,Customer_431,Poland,Warsaw,Small Business
+432,Customer_432,Ukraine,Lviv,Consumer
+433,Customer_433,Germany,Hamburg,Small Business
+434,Customer_434,Slovakia,Žilina,Corporate
+435,Customer_435,Czech Republic,Ostrava,Corporate
+436,Customer_436,Czech Republic,Ostrava,Consumer
+437,Customer_437,Germany,Munich,Small Business
+438,Customer_438,Hungary,Budapest,Small Business
+439,Customer_439,Slovakia,Bratislava,Corporate
+440,Customer_440,Ukraine,Kyiv,Small Business
+441,Customer_441,Poland,Wroclaw,Consumer
+442,Customer_442,Slovakia,Prešov,Corporate
+443,Customer_443,Hungary,Debrecen,Consumer
+444,Customer_444,Czech Republic,Prague,Small Business
+445,Customer_445,Poland,Wroclaw,Small Business
+446,Customer_446,Poland,Warsaw,Corporate
+447,Customer_447,Ukraine,Lviv,Small Business
+448,Customer_448,Poland,Warsaw,Corporate
+449,Customer_449,Slovakia,Košice,Consumer
+450,Customer_450,Hungary,Debrecen,Small Business
+451,Customer_451,Poland,Warsaw,Corporate
+452,Customer_452,Slovakia,Prešov,Small Business
+453,Customer_453,Slovakia,Žilina,Corporate
+454,Customer_454,Hungary,Debrecen,Small Business
+455,Customer_455,Ukraine,Kharkiv,Corporate
+456,Customer_456,Slovakia,Košice,Corporate
+457,Customer_457,Slovakia,Prešov,Small Business
+458,Customer_458,Czech Republic,Ostrava,Consumer
+459,Customer_459,Hungary,Debrecen,Small Business
+460,Customer_460,Poland,Wroclaw,Corporate
+461,Customer_461,Slovakia,Košice,Consumer
+462,Customer_462,Slovakia,Prešov,Corporate
+463,Customer_463,Slovakia,Bratislava,Consumer
+464,Customer_464,Germany,Berlin,Corporate
+465,Customer_465,Ukraine,Lviv,Small Business
+466,Customer_466,Hungary,Debrecen,Small Business
+467,Customer_467,Hungary,Budapest,Corporate
+468,Customer_468,Hungary,Budapest,Corporate
+469,Customer_469,Germany,Munich,Corporate
+470,Customer_470,Slovakia,Prešov,Consumer
+471,Customer_471,Ukraine,Lviv,Consumer
+472,Customer_472,Poland,Warsaw,Small Business
+473,Customer_473,Poland,Wroclaw,Small Business
+474,Customer_474,Poland,Warsaw,Corporate
+475,Customer_475,Poland,Warsaw,Consumer
+476,Customer_476,Ukraine,Kyiv,Small Business
+477,Customer_477,Czech Republic,Ostrava,Small Business
+478,Customer_478,Germany,Berlin,Consumer
+479,Customer_479,Poland,Warsaw,Consumer
+480,Customer_480,Germany,Berlin,Consumer
+481,Customer_481,Germany,Berlin,Small Business
+482,Customer_482,Czech Republic,Prague,Corporate
+483,Customer_483,Czech Republic,Ostrava,Consumer
+484,Customer_484,Poland,Warsaw,Consumer
+485,Customer_485,Germany,Munich,Consumer
+486,Customer_486,Slovakia,Bratislava,Consumer
+487,Customer_487,Slovakia,Prešov,Consumer
+488,Customer_488,Germany,Munich,Consumer
+489,Customer_489,Czech Republic,Brno,Consumer
+490,Customer_490,Czech Republic,Ostrava,Corporate
+491,Customer_491,Germany,Berlin,Small Business
+492,Customer_492,Slovakia,Žilina,Corporate
+493,Customer_493,Poland,Wroclaw,Small Business
+494,Customer_494,Slovakia,Žilina,Small Business
+495,Customer_495,Czech Republic,Ostrava,Consumer
+496,Customer_496,Hungary,Debrecen,Corporate
+497,Customer_497,Hungary,Budapest,Consumer
+498,Customer_498,Ukraine,Lviv,Corporate
+499,Customer_499,Hungary,Budapest,Corporate
+500,Customer_500,Hungary,Debrecen,Consumer
