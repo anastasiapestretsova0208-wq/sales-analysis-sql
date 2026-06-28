@@ -46,9 +46,5 @@ Low-margin products — found the 10 products with the lowest profit margin amon
 Data Source
 Dataset provided for educational purposes, based on a typical retail sales dataset (Kaggle).
 
-
 Tools
-
-
-PostgreSQL
-DBeaver / pgAdmin
+PostgreSQL/pgAdmin
