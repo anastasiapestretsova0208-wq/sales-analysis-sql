@@ -3,8 +3,8 @@ Sales Analysis — SQL Project
 Exploratory analysis of sales data using SQL (PostgreSQL).
 The goal was to answer key business questions about revenue, profitability, customers, and product performance.
 
-Business Questions
-#Question
+## Business Questions
+
 1. What is the total revenue, profit, and number of orders?
 2. How does revenue change month by month?
 3. Which countries generate the most revenue?
@@ -14,7 +14,7 @@ Business Questions
 7. What is the month-over-month revenue growth rate?
 8. Which products have the lowest profit margin?
 
-Database Schema
+## Database Schema
 Three tables were used:
 orders:
 order_id, order_date, customer_id, product_id,quantity, discount, revenue,cost, profit
@@ -23,7 +23,7 @@ customer_id, customer_name, country, city, segment
 products:
 product_id, product_name, category, unit_cost, unit_price 
 
-SQL Techniques Used
+## SQL Techniques Used
 Aggregations: SUM, COUNT, ROUND
 Joins: INNER JOIN across multiple tables
 Grouping and filtering: GROUP BY, HAVING
