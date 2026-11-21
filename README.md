@@ -1,7 +1,7 @@
 # sales-analysis-sql
 Sales Analysis — SQL Project
 Exploratory analysis of sales data using SQL (PostgreSQL).
-The goal was to ansver key business questions about revenue, profitability, customers, and product performance.
+The goal was to answer key business questions about revenue, profitability, customers, and product performance.
 
 Business Questions
 #Question
@@ -33,18 +33,25 @@ CTEs: WITH for multi-step logic
 Conditional logic: CASE WHEN
 Safe division: NULLIF to avoid division-by-zero errors
 
-Key Findings
-Overall performance — calculated total orders, revenue, profit, and profit margin percentage across all time.
-Monthly trend — identified revenue and profit dynamics over time to spot growth or decline periods.
-Geography — ranked countries by total revenue to find the most valuable markets.
-Product categories — compared categories by revenue and profit to identify the most and least efficient ones.
-Top customers — identified the 10 highest-spending customers with their segment and country.
-Customer segmentation — split customers into High / Medium / Low value groups based on total spending (thresholds: $5,000 and $2,000).
-MoM growth — calculated month-over-month revenue change in % using the LAG() window function.
-Low-margin products — found the 10 products with the lowest profit margin among those with revenue above $1,000.
+## Key Findings & Conclusion
+
+### 1. Overall Sales Performance
+The analysis of **5,000 orders** revealed total revenue of **$5,888,816.91** and total profit of **$2,561,882.55**, resulting in a **43.5% profit margin**. This indicates strong overall profitability.
+
+### 2. Monthly Revenue Trend
+Monthly revenue fluctuated throughout the analyzed period, with both increases and decreases in sales. These changes highlight the importance of monitoring monthly performance to identify trends and potential opportunities for improvement.
+
+### 3. Revenue by Country
+**Germany** generated the highest revenue (**$1,017,404.70**) from **913 orders**, followed by **Ukraine** with **$1,004,213.64** from **862 orders**. These countries represent the strongest markets by revenue.
+
+### 4. Product Category Performance
+**Sports** was the best-performing category, generating **$1,691,908.63** in revenue and **$756,552.22** in profit. **Furniture** recorded the lowest revenue among the five categories.
+
+### 5. Customer and Product Analysis
+Customer segmentation identified **high-value customers**, while profitability analysis highlighted products with relatively low profit margins that could benefit from further optimization.
+
+### Conclusion
+The analysis demonstrates **strong profitability**, with **Sports** leading product sales and **Germany** generating the highest revenue. The results suggest opportunities to optimize low-margin products, focus on valuable customer segments, and improve sales strategies based on monthly performance.
 
 Data Source
 Dataset provided for educational purposes, based on a typical retail sales dataset (Kaggle).
-
-Tools
-PostgreSQL/pgAdmin
